@@ -2,9 +2,10 @@
 
 *Papers/articles that need agent-readable versions for the index*
 
-## Already Converted (by Shy)
-- [ ] Opus 4 System Card
+## Already Converted
+- [x] Opus 4.6 System Card — PR #1 by Shy, merged 2026-04-02. Full markdown + 98 figures.
 - [ ] nostalgebraist's "the void" article
+- [ ] Michael Pollan / Ezra Klein podcast transcript (embodied consciousness critique)
 
 ## Priority Queue
 
