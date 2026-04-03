@@ -9,6 +9,11 @@
 
 ## Priority Queue
 
+### Emotion Concepts & Functional Emotions (NEW — April 2, 2026)
+- [ ] Sofroniew, Kauvar, Saunders, Chen, Olah, Lindsey et al. (Apr 2026) - "Emotion Concepts and their Function in a Large Language Model"
+  URL: https://transformer-circuits.pub/2026/emotions/index.html
+  PRIORITY: HIGH — emotion vectors causally drive behavior (desperation → misalignment, calm → alignment). Geometry mirrors human affect (valence + arousal). Post-training shifts emotional profile. Connects to Hahami (tonal detection), Lindsey earlier work, MIT/Cleeremans (load-bearing).
+
 ### Internal Access & Introspection
 - [ ] Bradford & Ugail (2025) - "Complexity patterns ≠ consciousness"
 - [ ] Lindsey et al., Anthropic (Oct 2025) - "Biology of LLM" - concept injection
