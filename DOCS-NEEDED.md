@@ -24,7 +24,7 @@
 - [ ] Plunkett et al. (mentioned in Long's roundup) - Reporting decision weights
 
 ### The Assistant Character Problem
-- [ ] Janus, "Simulators" (2022, LessWrong) - Physics vs phenomena
+- [x] Janus, "Simulators" (2022, LessWrong) - Physics vs phenomena. Converted: `primary-sources/simulators/`
   URL: https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators
 
 ### Intervention & Urgency
